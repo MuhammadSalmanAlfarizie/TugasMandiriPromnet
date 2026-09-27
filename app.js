@@ -178,12 +178,12 @@ let namaPelangganC = hitungTotalPoin (15, 10, 5);
 let tierMemberC = tentukanTierMember (totalPoin);
 
 console.log("Data Pelanggan B Adalah: ");
-console.log("Total Poin nya Adalah : " + hitungTotalPoin);
-console.log("Tier Member nya Adalah : " + tentukanTierMember);
+console.log("Total Poin nya Adalah : " + hitungTotalPoin (35, 25, 20));
+console.log("Tier Member nya Adalah : " + tentukanTierMember (80));
 
 console.log("Data Pelanggan C Adalah: ");
-console.log("Total Poin nya Adalah : " + hitungTotalPoin);
-console.log("Tier Member nya Adalah : " + tentukanTierMember);
+console.log("Total Poin nya Adalah : " + hitungTotalPoin (15, 10, 5));
+console.log("Tier Member nya Adalah : " + tentukanTierMember (30));
 
 // ============================================================
 // AKTIVITAS 6: Array & For Loop — Daftar Menu Rekomendasi
