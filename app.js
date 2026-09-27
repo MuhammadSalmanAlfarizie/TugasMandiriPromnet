@@ -171,11 +171,11 @@ function tentukanTierMember(poin) {
 // 2. Hitung total poin dan tentukan tier untuk simulasi Pelanggan C (misal poin: 15, 10, 5).
 // 3. Cetak data Pelanggan B dan C ke tab Console.
 
-let namaPelangganB = totalPoin (35, 25, 20);
-let tierMemberB = TierMember (hitungTotalPoin);
+let namaPelangganB = hitungTotalPoin (35, 25, 20);
+let tierMemberB = tentukanTierMember (totalPoin);
 
-let namaPelangganC = totalPoin (15, 10, 5);
-let tierMemberC = TierMember (hitungTotalPoin);
+let namaPelangganC = hitungTotalPoin (15, 10, 5);
+let tierMemberC = tentukanTierMember (totalPoin);
 
 console.log("Data Pelanggan B Adalah: ");
 console.log("Total Poin nya Adalah : " + hitungTotalPoin);
