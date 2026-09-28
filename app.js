@@ -27,7 +27,7 @@ console.log("=== SISTEM POIN MEMBER KEDAI KOPI ===");
 // TODO 1: Tulis satu baris console.log() untuk memastikan file app.js sudah terhubung!
 // Contoh output: "Skrip app.js berhasil terhubung!"
 
-console.log("Skrip app.js berhasil terhubung kak, selamat bertugas!")
+console.log("Skrip app.js berhasil terhubung kak, selamat bertugas!");
 
 
 // ============================================================
