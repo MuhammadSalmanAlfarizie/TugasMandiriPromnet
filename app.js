@@ -131,7 +131,8 @@ if(totalPoin >= 100 ) {
     benefit ="Member Reguler (kumpulkan poin untuk naik tier)";
 }
 
-console.log("Tier Member : " + tierMember + "Benefit : " + benefit);
+console.log("Tier Member : " + tierMember);
+console.log("Benefit : " + benefit);
 
 alert(
     "Nama :  " + namaPelanggan + " \n" +
