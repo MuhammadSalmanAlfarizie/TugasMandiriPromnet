@@ -134,9 +134,9 @@ if(totalPoin >= 100 ) {
 console.log("Tier Member : " + tierMember + "Benefit : " + benefit);
 
 alert(
-    "Nama :  " + namaPelanggan + " :\n" +
-    "Total Poin : " + totalPoin + " :\n" +
-    "Tier Member : " + tierMember + " :\n" +
+    "Nama :  " + namaPelanggan + " \n" +
+    "Total Poin : " + totalPoin + " \n" +
+    "Tier Member : " + tierMember + " \n" +
     "Benefit : " + benefit 
 );
 
